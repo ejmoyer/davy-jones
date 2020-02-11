@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="Davy Jones",
+    name="davyjones",
     version="0.0.1",
     author="Eric Moyer",
     author_email="ejmoyer3@comcast.net",
