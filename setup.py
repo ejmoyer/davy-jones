@@ -10,7 +10,7 @@ setuptools.setup(
     author="Eric Moyer",
     author_email="ejmoyer3@comcast.net",
     url="https://github.com/ejmoyer/davy-jones",
-    description="Gives Bash more of a GUI.",
+    description="TBA.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
